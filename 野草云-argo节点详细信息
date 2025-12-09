@@ -1,0 +1,105 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+甬哥Github项目 ：github.com/yonggekkk
+甬哥Blogger博客 ：ygkkk.blogspot.com
+甬哥YouTube频道 ：www.youtube.com/@ygkkk
+Argosbx一键无交互小钢炮脚本💣
+当前版本：V25.11.20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Argosbx重置协议完成，开始更新相关协议变量……
+
+VPS系统：Debian GNU/Linux 12 (bookworm)
+CPU架构：amd64
+Argosbx脚本未安装，开始安装…………
+
+=========启用Sing-box内核=========
+UUID密码：c50aeee2-5666-49ce-8b08-4c444cff8844
+Hysteria2端口：40480
+Tuic端口：22992
+Anytls端口：49876
+Reality域名：apple.com
+Any-Reality端口：47954
+Shadowsocks-2022端口：19539
+
+=========启用xray内核=========
+UUID密码：c50aeee2-5666-49ce-8b08-4c444cff8844
+Reality域名：apple.com
+Vless-xhttp-reality-enc端口：48221
+Vless-xhttp-enc端口：11039
+Vless-ws-enc端口：15151
+Vless-tcp-reality-v端口：48184
+
+所有节点名称前缀：HK-YCY
+
+=========启用Cloudflared-argo内核=========
+申请Argo固定隧道中……请稍等
+Argo固定隧道申请成功
+
+Argosbx脚本进程启动成功，安装完毕
+
+=========当前三大内核运行状态=========
+Sing-box (版本V1.12.12)：运行中
+Xray (版本V25.10.15)：运行中
+Argo (版本V2025.11.1)：运行中
+
+=========当前服务器本地IP情况=========
+本地IPV4地址：103.143.81.130 
+本地IPV6地址：2001:df1:7880:100::f32 
+服务器地区：Hong Kong
+
+*********************************************************
+*********************************************************
+Argosbx脚本输出节点配置如下：
+
+
+💣【 Vless-xhttp-reality-enc 】支持ENC加密，节点信息如下：
+vless://c50aeee2-5666-49ce-8b08-4c444cff8844@103.143.81.130:48221?encryption=mlkem768x25519plus.native.0rtt.uvdJYtFD1XpdsRxevGgP5-UHiDCXqwuKQ1w4U_sczAq6E0JxJBIsr_k1K8Rvo8Ne-Xm_TfA45YSqASpPUFYn5zojA4AmNjFSwFOGYrsofgxJo1JdtFOdO5y1rOl2aVdiLLapV0K6nuFIblyA5BmJZqYU9kc1IwOcqvt4FDByyjQPgDUiBFCqdyRdycpHCDWRBjM2_UxN3Og5uNoZHbcdzWaMk0NkLqMt-Emivsak6LVBUBKlHnKdB7RKrQpLobl106qE1TBpa3zB05tZEXwhnwzLcNcetWiczoY_z1yEA-B_yvti90EuW6pR3AmYGIKzQyezGrJOBKmh1dcVKtoioJVRQxdf6UqJmQTFJHGqNokIisUC0cMM43qYQDKMFljKkEFAfgAKVgEvPAy8NZJ-5-o12rAaWLNNMvOyKIyGx9orCCV9EESHqVwAByCRhnqhIlJH8hGV6JR7DtpsCqgsF7AThWiiFTidjNkNQXo68Xt6ddsevHI9mPKkozXIVwGWkPddZmeBXaSPQpmVljENTxEhWVdX7SwXeKwrt1xzGjYEXNvHKXgovJo_o3s6LFUJ0xcm1XGWCYbI-TswqIJpYKpgkpCQ0zWSaLAinLOHIRB3FgFeqeJhneZQTXpkVZR06WGMLxRg4ft3JHeE7cVLivRrzOpa_BNd3teJQdtxctEKG-hhZLUjC7azZnkSd_DCE8lPp6pSUesNF9BzaxQmI_HMYlGVRypy0hUXWyTKTgSPsQaWm3WuMgie0DWjhGNqcnoTF3QLb9VRnPNZqEXLQaQd07BALBRh6xdGkgKYbtF9K1ZgqcHGVmarHpCXK7ZyqpkUx-gL_lCH9ihoVPMiUcOxpLlnvljB8ocPUAMF0Mw0BSBcikBasZy9jDNdp1ZXYUw1uqkGQLYb6Fx9hsNlPwaCPfusHUKsaVSTgBAMkIml3hehaooJjMNuqkkG7HwW9sYUo_p6doGIaqW4htic54cGlWKv57wF3ZBQQZssk0mRvto2PwFDwfOARdyeBlQv1cXH_yht2UQj9zZALQgGiDgfAVc4anu-G5QZ9LUoI6CgK3B4QvmXbfksAAKYe7FxjqNWAMOY72Cw9NEjAAGwCyeWAHIVlMW5mwOpECxT5BxnSnOu1PG23qWcfyWlCwJ3BFOfToY2aetfRqpjYORcRyRZfRwl3sJwRoaNNyp47tclAPJ965TPtRnDZRoGvFVmUbqDErs5g-iRLoifmyewSIEr9wl_0Xitxay6x_dPmzgRXUyJGXwRtAaVruRRKyWHRiw7yCIHM3EI5NkCAFKV0YcO2OE6aAF0B9Y-yhhzoGKpp2LCtioEKuoispYp-BRCJ8UKXHXEkKh4bYs_aXOHCcCIPoSJ-AhowSOqZoO1vwPD6GfHpMar9EVPRyIVrsYpBVyuKMQ4XbmN6KTIeEplKmEOH_R_QYaJPTcW5gpA2LTGZNJdyRSEXPrCV3rI3JE6wOs7LScSvus3FhxWlFWB3smmNJrCeHNBesQIudiO_lQV2BCM8qkL-SphNzIzoPmpKOs_lxTAmuWi9HrJbDax6aHETJUbiC_ffRhtCyR2uB0&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=aolREqhTpjA3CGQL8dbydR78IRzmMctT4N_ynXS75F0&sid=6fc49864&type=xhttp&path=c50aeee2-5666-49ce-8b08-4c444cff8844-xh&mode=auto#HK-YCY-vl-xhttp-reality-C20251120027080
+
+💣【 Vless-xhttp-enc 】支持ENC加密，节点信息如下：
+vless://c50aeee2-5666-49ce-8b08-4c444cff8844@103.143.81.130:11039?encryption=mlkem768x25519plus.native.0rtt.uvdJYtFD1XpdsRxevGgP5-UHiDCXqwuKQ1w4U_sczAq6E0JxJBIsr_k1K8Rvo8Ne-Xm_TfA45YSqASpPUFYn5zojA4AmNjFSwFOGYrsofgxJo1JdtFOdO5y1rOl2aVdiLLapV0K6nuFIblyA5BmJZqYU9kc1IwOcqvt4FDByyjQPgDUiBFCqdyRdycpHCDWRBjM2_UxN3Og5uNoZHbcdzWaMk0NkLqMt-Emivsak6LVBUBKlHnKdB7RKrQpLobl106qE1TBpa3zB05tZEXwhnwzLcNcetWiczoY_z1yEA-B_yvti90EuW6pR3AmYGIKzQyezGrJOBKmh1dcVKtoioJVRQxdf6UqJmQTFJHGqNokIisUC0cMM43qYQDKMFljKkEFAfgAKVgEvPAy8NZJ-5-o12rAaWLNNMvOyKIyGx9orCCV9EESHqVwAByCRhnqhIlJH8hGV6JR7DtpsCqgsF7AThWiiFTidjNkNQXo68Xt6ddsevHI9mPKkozXIVwGWkPddZmeBXaSPQpmVljENTxEhWVdX7SwXeKwrt1xzGjYEXNvHKXgovJo_o3s6LFUJ0xcm1XGWCYbI-TswqIJpYKpgkpCQ0zWSaLAinLOHIRB3FgFeqeJhneZQTXpkVZR06WGMLxRg4ft3JHeE7cVLivRrzOpa_BNd3teJQdtxctEKG-hhZLUjC7azZnkSd_DCE8lPp6pSUesNF9BzaxQmI_HMYlGVRypy0hUXWyTKTgSPsQaWm3WuMgie0DWjhGNqcnoTF3QLb9VRnPNZqEXLQaQd07BALBRh6xdGkgKYbtF9K1ZgqcHGVmarHpCXK7ZyqpkUx-gL_lCH9ihoVPMiUcOxpLlnvljB8ocPUAMF0Mw0BSBcikBasZy9jDNdp1ZXYUw1uqkGQLYb6Fx9hsNlPwaCPfusHUKsaVSTgBAMkIml3hehaooJjMNuqkkG7HwW9sYUo_p6doGIaqW4htic54cGlWKv57wF3ZBQQZssk0mRvto2PwFDwfOARdyeBlQv1cXH_yht2UQj9zZALQgGiDgfAVc4anu-G5QZ9LUoI6CgK3B4QvmXbfksAAKYe7FxjqNWAMOY72Cw9NEjAAGwCyeWAHIVlMW5mwOpECxT5BxnSnOu1PG23qWcfyWlCwJ3BFOfToY2aetfRqpjYORcRyRZfRwl3sJwRoaNNyp47tclAPJ965TPtRnDZRoGvFVmUbqDErs5g-iRLoifmyewSIEr9wl_0Xitxay6x_dPmzgRXUyJGXwRtAaVruRRKyWHRiw7yCIHM3EI5NkCAFKV0YcO2OE6aAF0B9Y-yhhzoGKpp2LCtioEKuoispYp-BRCJ8UKXHXEkKh4bYs_aXOHCcCIPoSJ-AhowSOqZoO1vwPD6GfHpMar9EVPRyIVrsYpBVyuKMQ4XbmN6KTIeEplKmEOH_R_QYaJPTcW5gpA2LTGZNJdyRSEXPrCV3rI3JE6wOs7LScSvus3FhxWlFWB3smmNJrCeHNBesQIudiO_lQV2BCM8qkL-SphNzIzoPmpKOs_lxTAmuWi9HrJbDax6aHETJUbiC_ffRhtCyR2uB0&flow=xtls-rprx-vision&type=xhttp&path=c50aeee2-5666-49ce-8b08-4c444cff8844-vx&mode=auto#HK-YCY-vl-xhttp-C20251120027080
+
+💣【 Vless-ws-enc 】支持ENC加密，节点信息如下：
+vless://c50aeee2-5666-49ce-8b08-4c444cff8844@103.143.81.130:15151?encryption=mlkem768x25519plus.native.0rtt.uvdJYtFD1XpdsRxevGgP5-UHiDCXqwuKQ1w4U_sczAq6E0JxJBIsr_k1K8Rvo8Ne-Xm_TfA45YSqASpPUFYn5zojA4AmNjFSwFOGYrsofgxJo1JdtFOdO5y1rOl2aVdiLLapV0K6nuFIblyA5BmJZqYU9kc1IwOcqvt4FDByyjQPgDUiBFCqdyRdycpHCDWRBjM2_UxN3Og5uNoZHbcdzWaMk0NkLqMt-Emivsak6LVBUBKlHnKdB7RKrQpLobl106qE1TBpa3zB05tZEXwhnwzLcNcetWiczoY_z1yEA-B_yvti90EuW6pR3AmYGIKzQyezGrJOBKmh1dcVKtoioJVRQxdf6UqJmQTFJHGqNokIisUC0cMM43qYQDKMFljKkEFAfgAKVgEvPAy8NZJ-5-o12rAaWLNNMvOyKIyGx9orCCV9EESHqVwAByCRhnqhIlJH8hGV6JR7DtpsCqgsF7AThWiiFTidjNkNQXo68Xt6ddsevHI9mPKkozXIVwGWkPddZmeBXaSPQpmVljENTxEhWVdX7SwXeKwrt1xzGjYEXNvHKXgovJo_o3s6LFUJ0xcm1XGWCYbI-TswqIJpYKpgkpCQ0zWSaLAinLOHIRB3FgFeqeJhneZQTXpkVZR06WGMLxRg4ft3JHeE7cVLivRrzOpa_BNd3teJQdtxctEKG-hhZLUjC7azZnkSd_DCE8lPp6pSUesNF9BzaxQmI_HMYlGVRypy0hUXWyTKTgSPsQaWm3WuMgie0DWjhGNqcnoTF3QLb9VRnPNZqEXLQaQd07BALBRh6xdGkgKYbtF9K1ZgqcHGVmarHpCXK7ZyqpkUx-gL_lCH9ihoVPMiUcOxpLlnvljB8ocPUAMF0Mw0BSBcikBasZy9jDNdp1ZXYUw1uqkGQLYb6Fx9hsNlPwaCPfusHUKsaVSTgBAMkIml3hehaooJjMNuqkkG7HwW9sYUo_p6doGIaqW4htic54cGlWKv57wF3ZBQQZssk0mRvto2PwFDwfOARdyeBlQv1cXH_yht2UQj9zZALQgGiDgfAVc4anu-G5QZ9LUoI6CgK3B4QvmXbfksAAKYe7FxjqNWAMOY72Cw9NEjAAGwCyeWAHIVlMW5mwOpECxT5BxnSnOu1PG23qWcfyWlCwJ3BFOfToY2aetfRqpjYORcRyRZfRwl3sJwRoaNNyp47tclAPJ965TPtRnDZRoGvFVmUbqDErs5g-iRLoifmyewSIEr9wl_0Xitxay6x_dPmzgRXUyJGXwRtAaVruRRKyWHRiw7yCIHM3EI5NkCAFKV0YcO2OE6aAF0B9Y-yhhzoGKpp2LCtioEKuoispYp-BRCJ8UKXHXEkKh4bYs_aXOHCcCIPoSJ-AhowSOqZoO1vwPD6GfHpMar9EVPRyIVrsYpBVyuKMQ4XbmN6KTIeEplKmEOH_R_QYaJPTcW5gpA2LTGZNJdyRSEXPrCV3rI3JE6wOs7LScSvus3FhxWlFWB3smmNJrCeHNBesQIudiO_lQV2BCM8qkL-SphNzIzoPmpKOs_lxTAmuWi9HrJbDax6aHETJUbiC_ffRhtCyR2uB0&flow=xtls-rprx-vision&type=ws&path=c50aeee2-5666-49ce-8b08-4c444cff8844-vw#HK-YCY-vl-ws-enc-C20251120027080
+
+💣【 Vless-tcp-reality-vision 】节点信息如下：
+vless://c50aeee2-5666-49ce-8b08-4c444cff8844@103.143.81.130:48184?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=aolREqhTpjA3CGQL8dbydR78IRzmMctT4N_ynXS75F0&sid=6fc49864&type=tcp&headerType=none#HK-YCY-vl-reality-vision-C20251120027080
+
+💣【 Shadowsocks-2022 】节点信息如下：
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206eVNCUEJ6b1BnSWVaVDZxWHRmMndlQT09QDEwMy4xNDMuODEuMTMwOjE5NTM5#HK-YCY-Shadowsocks-2022-C20251120027080
+
+💣【 AnyTLS 】节点信息如下：
+anytls://c50aeee2-5666-49ce-8b08-4c444cff8844@103.143.81.130:49876?insecure=1&allowInsecure=1#HK-YCY-anytls-C20251120027080
+
+💣【 Any-Reality 】节点信息如下：
+anytls://c50aeee2-5666-49ce-8b08-4c444cff8844@103.143.81.130:47954?security=reality&sni=apple.com&fp=chrome&pbk=6oaOLFaa6EQZBfaHSrp1pcU3fElBL5Y20k3otf-MgVQ&sid=d7072f14&type=tcp&headerType=none#HK-YCY-any-reality-C20251120027080
+
+💣【 Hysteria2 】节点信息如下：
+hysteria2://c50aeee2-5666-49ce-8b08-4c444cff8844@103.143.81.130:40480?security=tls&alpn=h3&insecure=1&sni=www.bing.com#HK-YCY-hy2-C20251120027080
+
+💣【 Tuic 】节点信息如下：
+tuic://c50aeee2-5666-49ce-8b08-4c444cff8844:c50aeee2-5666-49ce-8b08-4c444cff8844@103.143.81.130:22992?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#HK-YCY-tuic-C20251120027080
+
+---------------------------------------------------------
+Argo隧道端口正在使用Vless-ws主协议端口：15151
+Argo域名：ycyhk.wanghe.online
+Argo固定隧道token：eyJhIjoiNTM0MjM1ZTk2YTM2MTEwMWE2OWRjZGU2NWVlYjc0ODgiLCJ0IjoiYzE4ZWQzMjMtMGQ4NC00ZmY4LTkzYzgtYTdhOWU4N2QzMmVlIiwicyI6Ik5UUTJOR0ZsWm1RdFpEUTBPQzAwTVRJekxUazFPRFV0WlRBM056SmlZelEyWVRFMCJ9
+
+1、💣443端口的Vless-ws-tls-argo节点(优选IP与443系端口随便换)
+vless://c50aeee2-5666-49ce-8b08-4c444cff8844@yg8.ygkkk.dpdns.org:443?encryption=mlkem768x25519plus.native.0rtt.uvdJYtFD1XpdsRxevGgP5-UHiDCXqwuKQ1w4U_sczAq6E0JxJBIsr_k1K8Rvo8Ne-Xm_TfA45YSqASpPUFYn5zojA4AmNjFSwFOGYrsofgxJo1JdtFOdO5y1rOl2aVdiLLapV0K6nuFIblyA5BmJZqYU9kc1IwOcqvt4FDByyjQPgDUiBFCqdyRdycpHCDWRBjM2_UxN3Og5uNoZHbcdzWaMk0NkLqMt-Emivsak6LVBUBKlHnKdB7RKrQpLobl106qE1TBpa3zB05tZEXwhnwzLcNcetWiczoY_z1yEA-B_yvti90EuW6pR3AmYGIKzQyezGrJOBKmh1dcVKtoioJVRQxdf6UqJmQTFJHGqNokIisUC0cMM43qYQDKMFljKkEFAfgAKVgEvPAy8NZJ-5-o12rAaWLNNMvOyKIyGx9orCCV9EESHqVwAByCRhnqhIlJH8hGV6JR7DtpsCqgsF7AThWiiFTidjNkNQXo68Xt6ddsevHI9mPKkozXIVwGWkPddZmeBXaSPQpmVljENTxEhWVdX7SwXeKwrt1xzGjYEXNvHKXgovJo_o3s6LFUJ0xcm1XGWCYbI-TswqIJpYKpgkpCQ0zWSaLAinLOHIRB3FgFeqeJhneZQTXpkVZR06WGMLxRg4ft3JHeE7cVLivRrzOpa_BNd3teJQdtxctEKG-hhZLUjC7azZnkSd_DCE8lPp6pSUesNF9BzaxQmI_HMYlGVRypy0hUXWyTKTgSPsQaWm3WuMgie0DWjhGNqcnoTF3QLb9VRnPNZqEXLQaQd07BALBRh6xdGkgKYbtF9K1ZgqcHGVmarHpCXK7ZyqpkUx-gL_lCH9ihoVPMiUcOxpLlnvljB8ocPUAMF0Mw0BSBcikBasZy9jDNdp1ZXYUw1uqkGQLYb6Fx9hsNlPwaCPfusHUKsaVSTgBAMkIml3hehaooJjMNuqkkG7HwW9sYUo_p6doGIaqW4htic54cGlWKv57wF3ZBQQZssk0mRvto2PwFDwfOARdyeBlQv1cXH_yht2UQj9zZALQgGiDgfAVc4anu-G5QZ9LUoI6CgK3B4QvmXbfksAAKYe7FxjqNWAMOY72Cw9NEjAAGwCyeWAHIVlMW5mwOpECxT5BxnSnOu1PG23qWcfyWlCwJ3BFOfToY2aetfRqpjYORcRyRZfRwl3sJwRoaNNyp47tclAPJ965TPtRnDZRoGvFVmUbqDErs5g-iRLoifmyewSIEr9wl_0Xitxay6x_dPmzgRXUyJGXwRtAaVruRRKyWHRiw7yCIHM3EI5NkCAFKV0YcO2OE6aAF0B9Y-yhhzoGKpp2LCtioEKuoispYp-BRCJ8UKXHXEkKh4bYs_aXOHCcCIPoSJ-AhowSOqZoO1vwPD6GfHpMar9EVPRyIVrsYpBVyuKMQ4XbmN6KTIeEplKmEOH_R_QYaJPTcW5gpA2LTGZNJdyRSEXPrCV3rI3JE6wOs7LScSvus3FhxWlFWB3smmNJrCeHNBesQIudiO_lQV2BCM8qkL-SphNzIzoPmpKOs_lxTAmuWi9HrJbDax6aHETJUbiC_ffRhtCyR2uB0&flow=xtls-rprx-vision&type=ws&host=ycyhk.wanghe.online&path=c50aeee2-5666-49ce-8b08-4c444cff8844-vw&security=tls&sni=ycyhk.wanghe.online&fp=chrome&insecure=0&allowInsecure=0#HK-YCY-vless-ws-tls-argo-enc-vision-C20251120027080
+
+2、💣80端口的Vless-ws-argo节点(优选IP与80系端口随便换)
+vless://c50aeee2-5666-49ce-8b08-4c444cff8844@yg10.ygkkk.dpdns.org:80?encryption=mlkem768x25519plus.native.0rtt.uvdJYtFD1XpdsRxevGgP5-UHiDCXqwuKQ1w4U_sczAq6E0JxJBIsr_k1K8Rvo8Ne-Xm_TfA45YSqASpPUFYn5zojA4AmNjFSwFOGYrsofgxJo1JdtFOdO5y1rOl2aVdiLLapV0K6nuFIblyA5BmJZqYU9kc1IwOcqvt4FDByyjQPgDUiBFCqdyRdycpHCDWRBjM2_UxN3Og5uNoZHbcdzWaMk0NkLqMt-Emivsak6LVBUBKlHnKdB7RKrQpLobl106qE1TBpa3zB05tZEXwhnwzLcNcetWiczoY_z1yEA-B_yvti90EuW6pR3AmYGIKzQyezGrJOBKmh1dcVKtoioJVRQxdf6UqJmQTFJHGqNokIisUC0cMM43qYQDKMFljKkEFAfgAKVgEvPAy8NZJ-5-o12rAaWLNNMvOyKIyGx9orCCV9EESHqVwAByCRhnqhIlJH8hGV6JR7DtpsCqgsF7AThWiiFTidjNkNQXo68Xt6ddsevHI9mPKkozXIVwGWkPddZmeBXaSPQpmVljENTxEhWVdX7SwXeKwrt1xzGjYEXNvHKXgovJo_o3s6LFUJ0xcm1XGWCYbI-TswqIJpYKpgkpCQ0zWSaLAinLOHIRB3FgFeqeJhneZQTXpkVZR06WGMLxRg4ft3JHeE7cVLivRrzOpa_BNd3teJQdtxctEKG-hhZLUjC7azZnkSd_DCE8lPp6pSUesNF9BzaxQmI_HMYlGVRypy0hUXWyTKTgSPsQaWm3WuMgie0DWjhGNqcnoTF3QLb9VRnPNZqEXLQaQd07BALBRh6xdGkgKYbtF9K1ZgqcHGVmarHpCXK7ZyqpkUx-gL_lCH9ihoVPMiUcOxpLlnvljB8ocPUAMF0Mw0BSBcikBasZy9jDNdp1ZXYUw1uqkGQLYb6Fx9hsNlPwaCPfusHUKsaVSTgBAMkIml3hehaooJjMNuqkkG7HwW9sYUo_p6doGIaqW4htic54cGlWKv57wF3ZBQQZssk0mRvto2PwFDwfOARdyeBlQv1cXH_yht2UQj9zZALQgGiDgfAVc4anu-G5QZ9LUoI6CgK3B4QvmXbfksAAKYe7FxjqNWAMOY72Cw9NEjAAGwCyeWAHIVlMW5mwOpECxT5BxnSnOu1PG23qWcfyWlCwJ3BFOfToY2aetfRqpjYORcRyRZfRwl3sJwRoaNNyp47tclAPJ965TPtRnDZRoGvFVmUbqDErs5g-iRLoifmyewSIEr9wl_0Xitxay6x_dPmzgRXUyJGXwRtAaVruRRKyWHRiw7yCIHM3EI5NkCAFKV0YcO2OE6aAF0B9Y-yhhzoGKpp2LCtioEKuoispYp-BRCJ8UKXHXEkKh4bYs_aXOHCcCIPoSJ-AhowSOqZoO1vwPD6GfHpMar9EVPRyIVrsYpBVyuKMQ4XbmN6KTIeEplKmEOH_R_QYaJPTcW5gpA2LTGZNJdyRSEXPrCV3rI3JE6wOs7LScSvus3FhxWlFWB3smmNJrCeHNBesQIudiO_lQV2BCM8qkL-SphNzIzoPmpKOs_lxTAmuWi9HrJbDax6aHETJUbiC_ffRhtCyR2uB0&flow=xtls-rprx-vision&type=ws&host=ycyhk.wanghe.online&path=c50aeee2-5666-49ce-8b08-4c444cff8844-vw&security=none#HK-YCY-vless-ws-argo-enc-vision-C20251120027080
+
+---------------------------------------------------------
+聚合节点信息，请进入 /root/agsbx/jh.txt 文件目录查看或者运行 cat /root/agsbx/jh.txt 查看
+=========================================================
+相关快捷方式如下：(首次安装成功后需重连SSH，agsbx快捷方式才可生效)
+Argosbx脚本一键SSH命令生器在线网址：https://yonggekkk.github.io/argosbx/
+主脚本：bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/argosbx/main/argosbx.sh) 或 bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosbx/main/argosbx.sh)
+显示节点信息命令：agsbx list 【或者】 主脚本 list
+重置变量组命令：自定义各种协议变量组 agsbx rep 【或者】 自定义各种协议变量组 主脚本 rep
+更新脚本命令：原已安装的自定义各种协议变量组 主脚本 rep
+更新Xray或Singbox内核命令：agsbx upx或ups 【或者】 主脚本 upx或ups
+重启脚本命令：agsbx res 【或者】 主脚本 res
+卸载脚本命令：agsbx del 【或者】 主脚本 del
+双栈VPS显示IPv4/IPv6节点配置命令：ippz=4或6 agsbx list 【或者】 ippz=4或6 主脚本 list
+---------------------------------------------------------
