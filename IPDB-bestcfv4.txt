@@ -1,1 +1,5 @@
 https://raw.githubusercontent.com/wanghe1531/IPDB/refs/heads/main/BestCF/bestcfv4.txt
+https://bestcf.pages.dev/vps789/top20.txt
+https://bestcf.pages.dev/gslege/SG.txt
+https://bestcf.pages.dev/gslege/JP.txt
+https://090227.pages.dev/bestcf?isp=cu&ips=50
